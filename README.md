@@ -5,7 +5,7 @@ Dois jogadores jogam  alternadamente, retirando pelo menos 1 e no máximo m peç
 
 Existe uma estratégia para ganhar o jogo que é muito simples: ela consiste em deixar sempre múltiplos de (m+1) peças ao jogador oponente.
 
-##Objetivo:
+## Objetivo:
 Você deverá escrever um programa na linguagem Python, versão 3, que permita a uma "vítima" jogar o NIM contra o computador. 
 O computador, é claro, deverá seguir a estratégia vencedora descrita acima.
 
@@ -19,4 +19,4 @@ Caso contrário, o computador toma a inciativa de começar o jogo, declarando "C
 Uma vez iniciado o jogo, a estratégia do computador para ganhar consiste em deixar sempre um número de peças que seja múltiplo de (m+1) ao jogador.
 Caso isso não seja possível, deverá tirar o número máximo de peças possíveis.
 
-###Seu trabalho, então, será implementar o Jogo e fazer com que o computador se utilize da estratégia vencedora.
+### Seu trabalho, então, será implementar o Jogo e fazer com que o computador se utilize da estratégia vencedora.
